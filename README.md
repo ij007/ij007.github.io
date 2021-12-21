@@ -1,3 +1,3 @@
 # ij007.github.io
 
-##URL - www.ishantjindal.me
+# URL - www.ishantjindal.me
